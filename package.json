@@ -1,0 +1,30 @@
+{
+  "name": "operations-research",
+  "version": "0.0.0",
+  "description": "Operations Research university course",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toombez/operations-research.git"
+  },
+  "keywords": [
+    "math",
+    "programming"
+  ],
+  "author": "toombez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toombez/operations-research/issues"
+  },
+  "homepage": "https://github.com/toombez/operations-research#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}

@@ -1,10 +1,9 @@
 {
-  "name": "tsconfig",
+  "name": "@operations-research/tsconfig",
   "version": "0.0.0",
   "private": true,
   "files": [
     "base.json",
-    "nextjs.json",
-    "react-library.json"
+    "ts-lib.json"
   ]
 }

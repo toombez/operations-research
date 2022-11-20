@@ -1,0 +1,26 @@
+{
+  "name": "@operations-research/linear-programming",
+  "version": "0.0.0",
+  "description": "linear programming package",
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "@operations-research/tsconfig": "workspace:*",
+    "esbuild": "^0.15.14",
+    "rollup": "^3.3.0",
+    "rollup-plugin-dts": "^5.0.0",
+    "rollup-plugin-esbuild": "^5.0.0"
+  },
+  "main": "dist/linear-programming.js",
+  "module": "dist/linear-programming.mjs",
+  "typings": "dist/linear-programming.d.ts",
+  "type": "module",
+  "keywords": [
+    "linear programming",
+    "simplex algorithm",
+    "math",
+    "operations research"
+  ]
+}

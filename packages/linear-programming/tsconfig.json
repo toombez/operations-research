@@ -1,0 +1,3 @@
+{
+    "extends": "@operations-research/tsconfig/ts-lib.json"
+}

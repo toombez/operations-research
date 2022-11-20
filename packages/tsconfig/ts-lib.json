@@ -1,0 +1,8 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "ts-lib",
+    "extends": "./base.json",
+    "compilerOptions": {
+        "target": "esnext"
+    }
+}
